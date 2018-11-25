@@ -19,6 +19,12 @@
     }
   ],
   "license": "MIT",
+  "repositories": [
+    {
+      "type": "vcs",   
+      "url": "https://gitbox.apache.org/repos/asf/logging-log4php.git"
+    }
+  ],  
   "require": {
     "php": ">=5.3.9",
     "hafriedlander/phockito": "1.0.*",
